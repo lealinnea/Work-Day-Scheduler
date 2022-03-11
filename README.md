@@ -2,6 +2,10 @@
 
 ## Link to work-day-scheduler
 
+https://github.com/lealinnea/Work-Day-Scheduler
+
+https://lealinnea.github.io/Work-Day-Scheduler/
+
 
 Purpose
 The purpose of the daily planner is to learn about JQuery and Bootstrap.
