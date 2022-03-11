@@ -1,6 +1,6 @@
 # Work-Day-Scheduler
 
-## Link to portfolio
+## Link to work-day-scheduler
 
 
 Purpose
